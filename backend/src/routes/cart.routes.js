@@ -1,6 +1,6 @@
 const express = require('express');
 const CartController = require("../controllers/cart.controller");
-const Auth = require("./../utils/common/auth");
+const Auth = require("../utils/common/auth");
 const router = express.Router();
 
 router.get('/', Auth.authenticateIfTokenExist, CartController.getCart);

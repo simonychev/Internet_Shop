@@ -14,16 +14,16 @@
 <li>страница заказа товаров</li>
 
 # Внешний вид
-https://github.com/simonychev/Internet_Shop/blob/main/src/assets/images/shop.png
+https://github.com/simonychev/Internet_Shop/blob/main/src/assets/images/shop.png?raw=true
 
 # Страница каталога
-https://github.com/simonychev/Internet_Shop/blob/main/src/assets/images/catalog.png
+https://github.com/simonychev/Internet_Shop/blob/main/src/assets/images/catalog.png?raw=true
 
 # Страница личного кабинета
-https://github.com/simonychev/Internet_Shop/blob/main/src/assets/images/user_cabinet.png
+https://github.com/simonychev/Internet_Shop/blob/main/src/assets/images/user_cabinet.png?raw=true
 
 # Страница заказа товаров
-https://github.com/simonychev/Internet_Shop/blob/main/src/assets/images/order.png
+https://github.com/simonychev/Internet_Shop/blob/main/src/assets/images/order.png?raw=true
 
 # Страница избранного
-https://github.com/simonychev/Internet_Shop/blob/main/src/assets/images/favorite.png
+https://github.com/simonychev/Internet_Shop/blob/main/src/assets/images/favorite.png?raw=true
